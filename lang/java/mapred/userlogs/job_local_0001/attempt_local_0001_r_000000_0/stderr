@@ -1,0 +1,20 @@
+643 [SocketServer on 0.0.0.0/0.0.0.0:0] INFO org.apache.avro.ipc.SocketServer - starting /0:0:0:0:0:0:0:0
+711 [Connection to /127.0.0.1:58188] INFO org.apache.avro.mapred.tether.TetherTaskRunner - got configure
+751 [Connection to /127.0.0.1:58188] INFO org.apache.avro.mapred.tether.TetherTaskRunner - got input complete
+767 [Connection to /127.0.0.1:58188] INFO org.apache.avro.ipc.SaslSocketTransceiver - closing to 0.0.0.0/0.0.0.0:36608
+775 [SocketServer on 0.0.0.0/0.0.0.0:0] INFO org.apache.avro.ipc.SocketServer - stopping /0:0:0:0:0:0:0:0
+620 [SocketServer on 0.0.0.0/0.0.0.0:0] INFO org.apache.avro.ipc.SocketServer - starting /0:0:0:0:0:0:0:0
+692 [Connection to /127.0.0.1:60432] INFO org.apache.avro.mapred.tether.TetherTaskRunner - got configure
+735 [Connection to /127.0.0.1:60432] INFO org.apache.avro.mapred.tether.TetherTaskRunner - got input complete
+741 [Connection to /127.0.0.1:60432] INFO org.apache.avro.ipc.SaslSocketTransceiver - closing to 0.0.0.0/0.0.0.0:47782
+745 [SocketServer on 0.0.0.0/0.0.0.0:0] INFO org.apache.avro.ipc.SocketServer - stopping /0:0:0:0:0:0:0:0
+629 [SocketServer on 0.0.0.0/0.0.0.0:0] INFO org.apache.avro.ipc.SocketServer - starting /0:0:0:0:0:0:0:0
+696 [Connection to /127.0.0.1:52505] INFO org.apache.avro.mapred.tether.TetherTaskRunner - got configure
+736 [Connection to /127.0.0.1:52505] INFO org.apache.avro.mapred.tether.TetherTaskRunner - got input complete
+743 [Connection to /127.0.0.1:52505] INFO org.apache.avro.ipc.SaslSocketTransceiver - closing to 0.0.0.0/0.0.0.0:59756
+747 [SocketServer on 0.0.0.0/0.0.0.0:0] INFO org.apache.avro.ipc.SocketServer - stopping /0:0:0:0:0:0:0:0
+877 [SocketServer on 0.0.0.0/0.0.0.0:0] INFO org.apache.avro.ipc.SocketServer - starting /0:0:0:0:0:0:0:0
+948 [Connection to /127.0.0.1:51199] INFO org.apache.avro.mapred.tether.TetherTaskRunner - got configure
+980 [Connection to /127.0.0.1:51199] INFO org.apache.avro.mapred.tether.TetherTaskRunner - got input complete
+987 [Connection to /127.0.0.1:51199] INFO org.apache.avro.ipc.SaslSocketTransceiver - closing to 0.0.0.0/0.0.0.0:33882
+993 [SocketServer on 0.0.0.0/0.0.0.0:0] INFO org.apache.avro.ipc.SocketServer - stopping /0:0:0:0:0:0:0:0
